@@ -4,7 +4,7 @@
 # Void dependencies based on:
 # https://github.com/void-linux/void-packages/blob/master/srcpkgs/labwc/template
 #
-# Recommended GH CI Void mirror based on
+# Recommended GH CI Void mirror based on 
 # https://docs.voidlinux.org/xbps/repositories/mirrors/changing.html
 
 name: CI
